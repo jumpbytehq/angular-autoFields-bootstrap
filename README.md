@@ -1,7 +1,6 @@
 angular-autofields-bootstrap
 =============================
-![Bower version][bower-image]
-[![Nuget version][nuget-image]][nuget-url]
+
 [![NPM version][npm-image]][npm-url]
 
 Avoid bloating your templates with repetitive form html.  
@@ -11,11 +10,9 @@ Instead, just specify a schema for the form and the model you want to bind it to
 
 ##Installation
 
-####Bower
-`bower install angular-autoFields-bootstrap`
+####Npm
+`npm i angular-autofields-jb`
 
-####Nuget
-`install-package AngularJs.AutoFields.Bootstrap`
 
 ####Manually
 ```html
