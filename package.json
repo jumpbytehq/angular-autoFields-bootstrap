@@ -1,5 +1,5 @@
 {
-    "name": "angular-autoFields-bootstrap",
+    "name": "angular-autoFields-jb",
     "version": "2.2.2",
     "description": "Automatically generate fields from a schema object and bind them to an object",
     "main": [
