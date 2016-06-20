@@ -18,11 +18,11 @@
     "homepage": "https://github.com/justmaier/angular-autoFields-bootstrap",
     "author": "Justin Maier <just.maier@gmail.com> (http://justinmaier.com)",
     "bugs": {
-        "url": "https://github.com/justmaier/angular-autoFields-bootstrap/issues"
+        "url": "https://github.com/jumpbytehq/angular-autoFields-bootstrap/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/justmaier/angular-autoFields-bootstrap.git"
+        "url": "git://github.com/jumpbytehq/angular-autoFields-bootstrap.git"
     },
     "dependencies": {},
     "devDependencies": {}
