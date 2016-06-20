@@ -1,5 +1,5 @@
 {
-    "name": "angular-autoFields-bootstrap",
+    "name": "angular-autoFields-jb",
     "version": "2.2.2",
     "main": [
         "autofields.min.js",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@github.com:JustMaier/angular-autoFields-bootstrap.git"
+        "url": "git@github.com:jumpbytehq/angular-autoFields-bootstrap.git"
     },
     "dependencies": {
         "angular": "*",
